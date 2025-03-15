@@ -1,4 +1,4 @@
-# ✨ T'mm: Hmm... 생각을 부르는 커뮤니티
+# ✨ Hmm... 생각을 부르는 커뮤니티 T'mm
 
 [📄 발표 자료](https://github.com/user-attachments/files/18394504/Code.Nova.T.mm.pdf)  
 
